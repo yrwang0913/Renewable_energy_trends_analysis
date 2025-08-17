@@ -1,2 +1,2 @@
-# renewable_energy_trends_analysis
-Explore a multidimensional dataset and uncover insights about global renewable energy trends
+# Uncover Trends of Global Renewable Energy
+Skills: Tableau, data visualisation, business metrics, communications.
