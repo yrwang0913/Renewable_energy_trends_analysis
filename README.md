@@ -21,7 +21,7 @@ We will try to answer the following questions:
 
 The next wave of opportunity lies in high-potential but not yet fulfilled markets such as the **US (solar) and the UK (wind)**. Long-term success is not only resource-driven but also shaped by **policy, governance, and regulatory** framework.
 
-##### Sector-specific Leaders
+#### Sector-specific Leaders
 Solar power - Brazil.
 Despite relatively low solar irradiance (resources), Brazil achieved the highest compound annual growth in installed solar capacity and leads in absolute production (GWh).
 
@@ -34,7 +34,7 @@ China dominates both absolute production and per-capita installed capacity growt
 Hydropower - Germany.
 Second only to Brazil in total production who shows strong volatility and low growth rate, Germany maintains stable installed capacity with the highest relative growth rate (0.03%).
 
-##### Success Factors
+#### Success Factors
 
 Policy & Governance - Proactive government policies and subsidies have driven Brazil, France, and Germany’s success.
 
